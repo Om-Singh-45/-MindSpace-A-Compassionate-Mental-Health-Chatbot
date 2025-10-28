@@ -80,12 +80,9 @@ If you or someone you know is in crisis, please reach out to a local helpline or
 ---
 
 ## 📸 Screenshots (Optional)
+<img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/832fc426-b6db-4aef-9d7f-eb636e7d46ef" />
 
-<img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/0254d2a9-f5b1-49af-984a-70473a24606f" />
 
-<img width="1636" height="822" alt="Screenshot 2025-10-29 005934" src="https://github.com/user-attachments/assets/fd5d36dc-6437-4488-9c99-85564f0fc1e7" />
-<img width="1456" height="869" alt="Screenshot 2025-10-29 005845" src="https://github.com/user-attachments/assets/2c64579f-0d1f-4885-a986-0132f66391fe" />
-Breathing Exercise
 
 
 
