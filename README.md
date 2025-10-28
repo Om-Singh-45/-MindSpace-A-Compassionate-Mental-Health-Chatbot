@@ -48,15 +48,29 @@ MindSpace/
 - **Frontend:** HTML, CSS, JS (Flask Templates)
 
 ---
+## ⚖️ Disclaimer
+
+MindSpace is not a substitute for professional mental health care.
+It offers emotional support and active listening, but not medical advice, diagnosis, or treatment.
+If you or someone you know is in crisis, please reach out to a local helpline or trusted individual immediately.
+
+---
+
+## ❤️ Acknowledgements
+
+- [Ollama](https://ollama.ai/) — for local LLM inference  
+- [Sentence Transformers](https://www.sbert.net/) — for text embeddings  
+- [FAISS](https://github.com/facebookresearch/faiss) — for efficient vector search  
+- The open-source community — for providing free, safe mental health datasets  
 
 
 ## 📸 Screenshots 
 <img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/832fc426-b6db-4aef-9d7f-eb636e7d46ef" />
-Home Page
+                                                                              **Home Page**
 <img width="1456" height="869" alt="Screenshot 2025-10-29 005845" src="https://github.com/user-attachments/assets/175e02d4-b2b6-4fff-9684-2e12d16c36fd" />
-Chat Interface
+                                                                            **Chat Interface**
 <img width="1636" height="822" alt="Screenshot 2025-10-29 005934" src="https://github.com/user-attachments/assets/3bdf1578-96ba-4ea4-80f8-6a7bdc7b5b69" />
-Breathing Exercise 
+                                                                          **Breathing Exercise** 
 
 
 ## 🚀 Getting Started
@@ -72,20 +86,6 @@ Make sure you have:
 git clone https://github.com/<your-username>/mindspace-chatbot.git
 cd mindspace-chatbot
 
-⚖️ Disclaimer
-
-MindSpace is not a substitute for professional mental health care.
-It offers emotional support and active listening, but not medical advice, diagnosis, or treatment.
-If you or someone you know is in crisis, please reach out to a local helpline or trusted individual immediately.
-
----
-
-## ❤️ Acknowledgements
-
-- [Ollama](https://ollama.ai/) — for local LLM inference  
-- [Sentence Transformers](https://www.sbert.net/) — for text embeddings  
-- [FAISS](https://github.com/facebookresearch/faiss) — for efficient vector search  
-- The open-source community — for providing free, safe mental health datasets  
 
 ---
 
