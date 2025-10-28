@@ -50,8 +50,14 @@ MindSpace/
 ---
 
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 <img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/832fc426-b6db-4aef-9d7f-eb636e7d46ef" />
+Home Page
+<img width="1456" height="869" alt="Screenshot 2025-10-29 005845" src="https://github.com/user-attachments/assets/175e02d4-b2b6-4fff-9684-2e12d16c36fd" />
+Chat Interface
+<img width="1636" height="822" alt="Screenshot 2025-10-29 005934" src="https://github.com/user-attachments/assets/3bdf1578-96ba-4ea4-80f8-6a7bdc7b5b69" />
+Breathing Exercise 
+
 
 ## 🚀 Getting Started
 
