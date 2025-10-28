@@ -49,6 +49,10 @@ MindSpace/
 
 ---
 
+
+## 📸 Screenshots (Optional)
+<img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/832fc426-b6db-4aef-9d7f-eb636e7d46ef" />
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Prerequisites
@@ -79,8 +83,6 @@ If you or someone you know is in crisis, please reach out to a local helpline or
 
 ---
 
-## 📸 Screenshots (Optional)
-<img width="1869" height="886" alt="Screenshot 2025-10-29 005444" src="https://github.com/user-attachments/assets/832fc426-b6db-4aef-9d7f-eb636e7d46ef" />
 
 
 
